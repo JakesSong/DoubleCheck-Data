@@ -1,0 +1,1199 @@
+[
+  {
+    "school": "UCheck Plus",
+    "bundle_id": "com.libeka.attendance.ucheckplusstud",
+    "url_scheme": "ucheckplusstud",
+    "url": "ucheckplusstud://",
+    "has_scheme": true,
+    "all_schemes": [
+      "ucheckplusstud"
+    ]
+  },
+  {
+    "school": "UNIST 출결",
+    "bundle_id": "kr.ac.unist.attend",
+    "url_scheme": "unist",
+    "url": "unist://",
+    "has_scheme": true,
+    "all_schemes": [
+      "unist"
+    ]
+  },
+  {
+    "school": "가천대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  },
+  {
+    "school": "가톨릭대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  },
+  {
+    "school": "가톨릭상지대학교 전자출결",
+    "bundle_id": "com.xidsys.csjabookstore",
+    "url_scheme": "csjabookstore",
+    "url": "csjabookstore://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppXidabook",
+      "prefs",
+      "csjabookstore"
+    ]
+  },
+  {
+    "school": "감리교신학대 전자출결",
+    "bundle_id": "com.mtu.mtuabookn",
+    "url_scheme": "cupabook",
+    "url": "cupabook://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppXidabook",
+      "cupabook"
+    ]
+  },
+  {
+    "school": "강원대학교 전자출결(강릉·원주)",
+    "bundle_id": "com.xidsys.gwnuabook",
+    "url_scheme": "gwnuabook",
+    "url": "gwnuabook://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppXidabook",
+      "prefs",
+      "gwnuabook"
+    ]
+  },
+  {
+    "school": "건국대학교  Konkuk University",
+    "bundle_id": "kr.ac.kku.mobile",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "건국대학교 글로컬캠퍼스 전자출결",
+    "bundle_id": "com.xidsys.kkuabookstore",
+    "url_scheme": "kkuabookstore",
+    "url": "kkuabookstore://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppXidabook",
+      "prefs",
+      "kkuabookstore"
+    ]
+  },
+  {
+    "school": "건양대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  },
+  {
+    "school": "경기대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  },
+  {
+    "school": "경기대학교 전자출결",
+    "bundle_id": "com.xidsys.kgabookstore",
+    "url_scheme": "kgabookstore",
+    "url": "kgabookstore://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppXidabook",
+      "kgabookstore"
+    ]
+  },
+  {
+    "school": "경남대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  },
+  {
+    "school": "경동대출결앱",
+    "bundle_id": "com.icerti.attend.kyungdong",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "경동대학교 스마트출결",
+    "bundle_id": "kr.sitin.attendance.ucheckplusstud-kyungdong",
+    "url_scheme": "bucecheckstud",
+    "url": "bucecheckstud://",
+    "has_scheme": true,
+    "all_schemes": [
+      "bucecheckstud"
+    ]
+  },
+  {
+    "school": "경북대학교 생활관",
+    "bundle_id": "com.quesdevelopment.knudorm",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "경북대학교 총동창회",
+    "bundle_id": "com.flash21.knu",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "경북대학교병원",
+    "bundle_id": "kr.knuh.mcare",
+    "url_scheme": "mcareknuh",
+    "url": "mcareknuh://",
+    "has_scheme": true,
+    "all_schemes": [
+      "mcareknuh",
+      "navermcareknuh",
+      "kakao1af0229b6cd5058f204554a21bb63cad",
+      "com.googleusercontent.apps.1074424591950-jivrj9b5nbpinld0s3csard6cgq94emb"
+    ]
+  },
+  {
+    "school": "경북보건대학교출결앱",
+    "bundle_id": "com.udream.attend-gch.kwu",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "경상국립대학교 전자출결",
+    "bundle_id": "com.xidsys.gnuabookstore",
+    "url_scheme": "GnuAbookStore",
+    "url": "GnuAbookStore://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppXidabook",
+      "prefs",
+      "GnuAbookStore"
+    ]
+  },
+  {
+    "school": "경희대학교 OTP",
+    "bundle_id": "kr.ac.khu.otp",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "경희대학교 수강신청 앱",
+    "bundle_id": "kr.ac.khu.MobileSugang",
+    "url_scheme": "khuvsugang",
+    "url": "khuvsugang://",
+    "has_scheme": true,
+    "all_schemes": [
+      "khuvsugang"
+    ]
+  },
+  {
+    "school": "경희대학교 일본어학과",
+    "bundle_id": "com.hustay.swing.d39140846a73f4012a010d6ad4eb84878",
+    "url_scheme": "khjapan17",
+    "url": "khjapan17://",
+    "has_scheme": true,
+    "all_schemes": [
+      "khjapan17"
+    ]
+  },
+  {
+    "school": "경희대학교 중앙도서관(KHU Library)",
+    "bundle_id": "com.futurenuri.kyunghee",
+    "url_scheme": "kyungheelib",
+    "url": "kyungheelib://",
+    "has_scheme": true,
+    "all_schemes": [
+      "kyungheelib"
+    ]
+  },
+  {
+    "school": "경희대학교 통합앱",
+    "bundle_id": "ac.kr.khuniv",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": [
+      "kakaodd8b2d533bcbfb72be74518cd4631cd9",
+      "khumobile"
+    ]
+  },
+  {
+    "school": "경희대학교의료원 스마트사원증",
+    "bundle_id": "FG74QUYJLY.kr.or.khnmc.meditech.empcard",
+    "url_scheme": "idcard",
+    "url": "idcard://",
+    "has_scheme": true,
+    "all_schemes": [
+      "idcard"
+    ]
+  },
+  {
+    "school": "계명대학교 전자출결",
+    "bundle_id": "com.kmu.kmuabookstore",
+    "url_scheme": "AppKmuabook",
+    "url": "AppKmuabook://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppKmuabook"
+    ]
+  },
+  {
+    "school": "고대인클래스",
+    "bundle_id": "kr.ac.korea.KoreaInClass",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "국립경국대학교 스마트캠퍼스",
+    "bundle_id": "kr.ac.anu.m4u",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "국제대학교 전자출결",
+    "bundle_id": "kr.co.bizbucket.echeck.kookje",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "극동대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  },
+  {
+    "school": "극동대학교출결앱",
+    "bundle_id": "com.udream.attend-fareast.kwu",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "단국대학교 경영대학원(죽전)",
+    "bundle_id": "net.hanulsoft.dkuemba.class",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "단국대학교.",
+    "bundle_id": "kr.ac.dankook.AppDKU",
+    "url_scheme": "DKUMobileApp",
+    "url": "DKUMobileApp://",
+    "has_scheme": true,
+    "all_schemes": [
+      "DKUMobileApp"
+    ]
+  },
+  {
+    "school": "대구보건대 전자출결",
+    "bundle_id": "com.dhc.dhcabookn",
+    "url_scheme": "AppKMCUAbook",
+    "url": "AppKMCUAbook://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppKMCUAbook"
+    ]
+  },
+  {
+    "school": "대림대학교 스마트캠퍼스",
+    "bundle_id": "kr.ac.daelim.atdc",
+    "url_scheme": "daelim",
+    "url": "daelim://",
+    "has_scheme": true,
+    "all_schemes": [
+      "daelim"
+    ]
+  },
+  {
+    "school": "대전대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  },
+  {
+    "school": "대전대학교 중앙도서관",
+    "bundle_id": "ac.kr.dju.libweb",
+    "url_scheme": "djuLib",
+    "url": "djuLib://",
+    "has_scheme": true,
+    "all_schemes": [
+      "djuLib"
+    ]
+  },
+  {
+    "school": "대전보건대학교 전자출결",
+    "bundle_id": "kr.ac.hit.hitabook",
+    "url_scheme": "AppHitabook",
+    "url": "AppHitabook://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppHitabook"
+    ]
+  },
+  {
+    "school": "덕성여자대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  },
+  {
+    "school": "동국대학교 WISE캠퍼스 도서관 시설예약시스템",
+    "bundle_id": "hodi.co.kr.DonggukGJ-Lib",
+    "url_scheme": "DonggukGJSeat",
+    "url": "DonggukGJSeat://",
+    "has_scheme": true,
+    "all_schemes": [
+      "DonggukGJSeat"
+    ]
+  },
+  {
+    "school": "동국대학교 수강신청(WISE캠퍼스)",
+    "bundle_id": "kr.ac.swit.DGUK",
+    "url_scheme": "dguksugang",
+    "url": "dguksugang://",
+    "has_scheme": true,
+    "all_schemes": [
+      "dguksugang"
+    ]
+  },
+  {
+    "school": "동남보건대학교 전자출결",
+    "bundle_id": "kr.co.bizbucket.echeck.dnhu",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "동신대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  },
+  {
+    "school": "동아방송예술대 전자출결",
+    "bundle_id": "kr.co.bvs.echeck.dima",
+    "url_scheme": "echeckDima",
+    "url": "echeckDima://",
+    "has_scheme": true,
+    "all_schemes": [
+      "echeckDima"
+    ]
+  },
+  {
+    "school": "동양대학교 스마트캠퍼스",
+    "bundle_id": "kr.ac.dyu.atdc",
+    "url_scheme": "smartsilla",
+    "url": "smartsilla://",
+    "has_scheme": true,
+    "all_schemes": [
+      "smartsilla"
+    ]
+  },
+  {
+    "school": "동양미래대학교전자출결",
+    "bundle_id": "com.dongyang.dongyangabook",
+    "url_scheme": "AppDongyangAbook",
+    "url": "AppDongyangAbook://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppDongyangAbook"
+    ]
+  },
+  {
+    "school": "루터대학교 전자출결",
+    "bundle_id": "com.libeka.attendance.ucheckplusstud-luther",
+    "url_scheme": "buecheckstud",
+    "url": "buecheckstud://",
+    "has_scheme": true,
+    "all_schemes": [
+      "buecheckstud"
+    ]
+  },
+  {
+    "school": "명지대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  },
+  {
+    "school": "목포해양대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  },
+  {
+    "school": "백석대학교 스마트출결",
+    "bundle_id": "com.libeka.attendance.ucheckplusstud-baekseok",
+    "url_scheme": "buecheckstud",
+    "url": "buecheckstud://",
+    "has_scheme": true,
+    "all_schemes": [
+      "buecheckstud"
+    ]
+  },
+  {
+    "school": "백석문화대학교 스마트출결",
+    "bundle_id": "com.libeka.attendance.ucheckplusstud-baekseok-culture",
+    "url_scheme": "bucecheckstud",
+    "url": "bucecheckstud://",
+    "has_scheme": true,
+    "all_schemes": [
+      "bucecheckstud"
+    ]
+  },
+  {
+    "school": "백석예술대학교 전자출결",
+    "bundle_id": "com.xidsys.bauabookstore",
+    "url_scheme": "bauabookstore",
+    "url": "bauabookstore://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppXidabook",
+      "bauabookstore"
+    ]
+  },
+  {
+    "school": "부산가톨릭대학교 전자출결",
+    "bundle_id": "com.xidsys.cupabookstore",
+    "url_scheme": "cupabook",
+    "url": "cupabook://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppXidabook",
+      "cupabook"
+    ]
+  },
+  {
+    "school": "부산과학기술대학교 Smart App",
+    "bundle_id": "com.xidsys.xidstoryf",
+    "url_scheme": "cupabook",
+    "url": "cupabook://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppXidabook",
+      "prefs",
+      "cupabook"
+    ]
+  },
+  {
+    "school": "부산대학교 대학생활원",
+    "bundle_id": "com.busannationaluniversity",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "부산대학교 도서관 New",
+    "bundle_id": "com.pnuniversity.Library-ios",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "부산대학교 스마트캠퍼스",
+    "bundle_id": "smartcampus.pusan.ac.kr.Smart",
+    "url_scheme": "pusanuniv",
+    "url": "pusanuniv://",
+    "has_scheme": true,
+    "all_schemes": [
+      "pusanuniv"
+    ]
+  },
+  {
+    "school": "부산대학교 의과대학 전자출결",
+    "bundle_id": "com.pnu.pnuabookn",
+    "url_scheme": "AppPNUAbook",
+    "url": "AppPNUAbook://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppPNUAbook"
+    ]
+  },
+  {
+    "school": "부산대학교 통합인증",
+    "bundle_id": "kr.ac.pusan.sso",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "부산대학교병원",
+    "bundle_id": "or.kr.pnuh.mcare",
+    "url_scheme": "mcarepnuh",
+    "url": "mcarepnuh://",
+    "has_scheme": true,
+    "all_schemes": [
+      "mcarepnuh",
+      "navermcarepnuh",
+      "kakao49d08c76a271166758f7154fa29052d9",
+      "com.googleusercontent.apps.356722102842-f4td0nfpn91ldcr291s2l0k260vk0592",
+      "mcarepnuhstore"
+    ]
+  },
+  {
+    "school": "부산대학교치과병원",
+    "bundle_id": "com.lemoncare.pnudh",
+    "url_scheme": "mcarepnudh",
+    "url": "mcarepnudh://",
+    "has_scheme": true,
+    "all_schemes": [
+      "mcarepnudh",
+      "naverpnudh",
+      "kakao1ff0334cd792cda578df64558f5dd137",
+      "com.googleusercontent.apps.623787505044-qi0e4r9me28jhkatv19k9c5tvk7tvd63",
+      "mcarepnudhstore"
+    ]
+  },
+  {
+    "school": "부산보건대학교 전자출결",
+    "bundle_id": "com.xidsys.dguabookstore",
+    "url_scheme": "dguabookstore",
+    "url": "dguabookstore://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppXidabook",
+      "prefs",
+      "dguabookstore"
+    ]
+  },
+  {
+    "school": "부산여자대학교 전자출결",
+    "bundle_id": "com.xidsys.bwcabookstore",
+    "url_scheme": "AppBwcAbook",
+    "url": "AppBwcAbook://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppBwcAbook",
+      "bwcabookstore"
+    ]
+  },
+  {
+    "school": "부산외국대학교 전자출결",
+    "bundle_id": "com.xidsys.bufsabookstore",
+    "url_scheme": "bufsabookstore",
+    "url": "bufsabookstore://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppXidabook",
+      "prefs",
+      "bufsabookstore"
+    ]
+  },
+  {
+    "school": "부산장신대학교 전자출결",
+    "bundle_id": "com.xidsys.bpuabookstore",
+    "url_scheme": "bpuabookstore",
+    "url": "bpuabookstore://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppXidabook",
+      "prefs",
+      "bpuabookstore"
+    ]
+  },
+  {
+    "school": "부천대학교 전자출결",
+    "bundle_id": "com.bc.bcabook",
+    "url_scheme": "AppBCAbook",
+    "url": "AppBCAbook://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppBCAbook"
+    ]
+  },
+  {
+    "school": "삼육대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  },
+  {
+    "school": "상명대학교 모바일학생증",
+    "bundle_id": "kr.ac.smu.mobile-sm-univ",
+    "url_scheme": "lotecsapp",
+    "url": "lotecsapp://",
+    "has_scheme": true,
+    "all_schemes": [
+      "lotecsapp"
+    ]
+  },
+  {
+    "school": "상명대학교 스마트출결",
+    "bundle_id": "kr.ac.smu.echeck",
+    "url_scheme": "echeck-smu",
+    "url": "echeck-smu://",
+    "has_scheme": true,
+    "all_schemes": [
+      "echeck-smu"
+    ]
+  },
+  {
+    "school": "상명대학교 천안캠퍼스 학술정보관",
+    "bundle_id": "ac.kr.smuc.libnt",
+    "url_scheme": "SmucLibnt",
+    "url": "SmucLibnt://",
+    "has_scheme": true,
+    "all_schemes": [
+      "SmucLibnt"
+    ]
+  },
+  {
+    "school": "상명대학교 포털",
+    "bundle_id": "com.tomatosystem.pushapp",
+    "url_scheme": "smpushapp",
+    "url": "smpushapp://",
+    "has_scheme": true,
+    "all_schemes": [
+      "smpushapp"
+    ]
+  },
+  {
+    "school": "상명대학교 학술정보관",
+    "bundle_id": "kr.co.smu.lib",
+    "url_scheme": "smulib",
+    "url": "smulib://",
+    "has_scheme": true,
+    "all_schemes": [
+      "smulib"
+    ]
+  },
+  {
+    "school": "서강대학교 전자출결",
+    "bundle_id": "kr.ac.sogang.ucheckplus.students",
+    "url_scheme": "ucheckplusstud",
+    "url": "ucheckplusstud://",
+    "has_scheme": true,
+    "all_schemes": [
+      "ucheckplusstud"
+    ]
+  },
+  {
+    "school": "서경대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  },
+  {
+    "school": "서경대학교출결앱2",
+    "bundle_id": "com.icerti.attend.seokyeong",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "서울과학기술대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  },
+  {
+    "school": "서울과학기술대학교 스마트캠퍼스",
+    "bundle_id": "ac.kr.seoultech.m2",
+    "url_scheme": "seoultechm2",
+    "url": "seoultechm2://",
+    "has_scheme": true,
+    "all_schemes": [
+      "seoultechm2"
+    ]
+  },
+  {
+    "school": "서울대학교",
+    "bundle_id": "kr.ac.snu.mobile",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "서울시립대학교 전자출결",
+    "bundle_id": "com.libeka.attendance.ucheckplusstudsirip",
+    "url_scheme": "ucheckplusstud",
+    "url": "ucheckplusstud://",
+    "has_scheme": true,
+    "all_schemes": [
+      "ucheckplusstud"
+    ]
+  },
+  {
+    "school": "서울예술대학교 전자출결",
+    "bundle_id": "kr.ac.seoularts.attend",
+    "url_scheme": "seoularts",
+    "url": "seoularts://",
+    "has_scheme": true,
+    "all_schemes": [
+      "seoularts"
+    ]
+  },
+  {
+    "school": "선문대학교 전자출결",
+    "bundle_id": "com.xidsys.smuabookstore",
+    "url_scheme": "smuabookstore",
+    "url": "smuabookstore://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppXidabook",
+      "smuabookstore"
+    ]
+  },
+  {
+    "school": "성결대학교 전자출결",
+    "bundle_id": "kr.ac.sku.atdc",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "성균관대학교 전자출결",
+    "bundle_id": "edu.skku.attend",
+    "url_scheme": "skkuAttend",
+    "url": "skkuAttend://",
+    "has_scheme": true,
+    "all_schemes": [
+      "skkuAttend"
+    ]
+  },
+  {
+    "school": "성신여자대학교 스마트캠퍼스",
+    "bundle_id": "kr.ac.sungshin.smartservice",
+    "url_scheme": "sungshinsmartservice",
+    "url": "sungshinsmartservice://",
+    "has_scheme": true,
+    "all_schemes": [
+      "sungshinsmartservice"
+    ]
+  },
+  {
+    "school": "세감 - 세종이들을 위한 출석, 스터디룸 관리",
+    "bundle_id": "org.reactjs.native.example.segam-app",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "세종대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  },
+  {
+    "school": "수원대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  },
+  {
+    "school": "숙명여자대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  },
+  {
+    "school": "숭실사이버대학교 모바일캠퍼스",
+    "bundle_id": "ac.kcu.lmsnew",
+    "url_scheme": "LmsNew",
+    "url": "LmsNew://",
+    "has_scheme": true,
+    "all_schemes": [
+      "LmsNew"
+    ]
+  },
+  {
+    "school": "신한대학교 전자출결",
+    "bundle_id": "com.xidsys.shuabookstore",
+    "url_scheme": "shuabookstore",
+    "url": "shuabookstore://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppXidabook",
+      "shuabookstore"
+    ]
+  },
+  {
+    "school": "씨드시스템 전자출결",
+    "bundle_id": "com.xidsys.xidabooknew",
+    "url_scheme": "AppXidabook",
+    "url": "AppXidabook://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppXidabook"
+    ]
+  },
+  {
+    "school": "연세대학교 전자출결 Y-Attend",
+    "bundle_id": "kr.ac.yonsei.attendance",
+    "url_scheme": "ysrollbooklink",
+    "url": "ysrollbooklink://",
+    "has_scheme": true,
+    "all_schemes": [
+      "ysrollbooklink"
+    ]
+  },
+  {
+    "school": "연암대학교 스마트캠퍼스",
+    "bundle_id": "com.yonam.attend",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "영남대학교 스마트출결",
+    "bundle_id": "kr.ac.yu.smartapp",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "용인대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  },
+  {
+    "school": "우석대학교 전자출결",
+    "bundle_id": "com.woosuk.woosukabookn",
+    "url_scheme": "AppWoosukAbook",
+    "url": "AppWoosukAbook://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppWoosukAbook"
+    ]
+  },
+  {
+    "school": "유원대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  },
+  {
+    "school": "유원대학교 전자출결",
+    "bundle_id": "com.libeka.attendance.ucheckplusstud-u1",
+    "url_scheme": "ucheckplusstud",
+    "url": "ucheckplusstud://",
+    "has_scheme": true,
+    "all_schemes": [
+      "ucheckplusstud"
+    ]
+  },
+  {
+    "school": "유한출결",
+    "bundle_id": "com.libeka.attendance.ucheckplusstud-yuhan",
+    "url_scheme": "bucecheckstud",
+    "url": "bucecheckstud://",
+    "has_scheme": true,
+    "all_schemes": [
+      "bucecheckstud"
+    ]
+  },
+  {
+    "school": "을지대학교 전자출결",
+    "bundle_id": "kr.ac.hana.atdc",
+    "url_scheme": "mobileid",
+    "url": "mobileid://",
+    "has_scheme": true,
+    "all_schemes": [
+      "mobileid"
+    ]
+  },
+  {
+    "school": "이화여자대학교 사이버캠퍼스",
+    "bundle_id": "com.ewha.coursemos",
+    "url_scheme": "coursemosEhwa",
+    "url": "coursemosEhwa://",
+    "has_scheme": true,
+    "all_schemes": [
+      "coursemosEhwa"
+    ]
+  },
+  {
+    "school": "인덕대학교 전자출결",
+    "bundle_id": "kr.co.bvs.echeck.induk",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "인천가톨릭대학교 전자출결",
+    "bundle_id": "com.iccu.iccuabook",
+    "url_scheme": "AppICCUAbook",
+    "url": "AppICCUAbook://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppICCUAbook"
+    ]
+  },
+  {
+    "school": "인천대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  },
+  {
+    "school": "인하공업전문대학 전자출결",
+    "bundle_id": "com.udream.attend-inhatc.kwu",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "전북대학교 전자출결",
+    "bundle_id": "com.xidsys.jbnuabook",
+    "url_scheme": "jbnuabook",
+    "url": "jbnuabook://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppXidabook",
+      "prefs",
+      "jbnuabook"
+    ]
+  },
+  {
+    "school": "제주대학교 전자출결",
+    "bundle_id": "com.jejunu.jejunuabook",
+    "url_scheme": "jejunuabook",
+    "url": "jejunuabook://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppXidabook",
+      "jejunuabook"
+    ]
+  },
+  {
+    "school": "중앙대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  },
+  {
+    "school": "중원대학교 전자출결",
+    "bundle_id": "kr.ac.jwu.atdc",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "청주대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  },
+  {
+    "school": "청주대학교 전자출결",
+    "bundle_id": "kr.ac.cju.atdc",
+    "url_scheme": "atdc",
+    "url": "atdc://",
+    "has_scheme": true,
+    "all_schemes": [
+      "atdc"
+    ]
+  },
+  {
+    "school": "한경국립대학교 스마트캠퍼스",
+    "bundle_id": "kr.ac.hknu.mobile",
+    "url_scheme": "hknusmart",
+    "url": "hknusmart://",
+    "has_scheme": true,
+    "all_schemes": [
+      "hknusmart"
+    ]
+  },
+  {
+    "school": "한남대학교 전자출결",
+    "bundle_id": "com.xidsys.hnuabookstore",
+    "url_scheme": "AppHnuAbook",
+    "url": "AppHnuAbook://",
+    "has_scheme": true,
+    "all_schemes": [
+      "AppHnuAbook",
+      "hnuabookstore"
+    ]
+  },
+  {
+    "school": "한밭대학교 스마트 캠퍼스",
+    "bundle_id": "kr.ac.hanbat.smart",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "한밭대학교 전자출결",
+    "bundle_id": "kr.ac.hanbat.app.elec",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "한신대학교 전자출결",
+    "bundle_id": "com.libeka.attendance.ucheckplusstud-hanshin",
+    "url_scheme": "hanshinecheckstud",
+    "url": "hanshinecheckstud://",
+    "has_scheme": true,
+    "all_schemes": [
+      "hanshinecheckstud"
+    ]
+  },
+  {
+    "school": "한양대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  },
+  {
+    "school": "헤이영 캠퍼스 - 대학생활 필수 통합 앱",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung",
+      "com.googleusercontent.apps.148451238207-em57eag58fkg6jv4jj7hddtmfns3vnpa",
+      "com.googleusercontent.apps.148451238207-egrd4gqlp43g12jonss030ihveabsnfh"
+    ]
+  },
+  {
+    "school": "호원대학교출결앱",
+    "bundle_id": "com.udream.attend-howon.kwu",
+    "url_scheme": null,
+    "url": null,
+    "has_scheme": false,
+    "all_schemes": []
+  },
+  {
+    "school": "홍익대학교",
+    "bundle_id": "com.shinhan.heyoung",
+    "url_scheme": "heyoung",
+    "url": "heyoung://",
+    "has_scheme": true,
+    "all_schemes": [
+      "heyoung"
+    ]
+  }
+]
