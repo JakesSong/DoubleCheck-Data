@@ -24,10 +24,10 @@
     "url": "coursemosKwandong://"
   },
   {
-    "school": "가톨릭꽃동네대학교",
-    "bundle_id": "com.shinhan.heyoungcampus",
-    "url_scheme": "heyoung",
-    "url": "heyoung://"
+    "school": "가톨릭꽃동네대(HelloLMS)",
+    "url": "hellolms://",
+    "bundle_id": "com.xinics.hellolms",
+    "url_scheme": "hellolms"
   },
   {
     "school": "가톨릭대학교",
@@ -42,22 +42,22 @@
     "url": "heyoung://"
   },
   {
-    "school": "감리교신학대학교",
-    "bundle_id": "com.shinhan.heyoungcampus",
-    "url_scheme": "heyoung",
-    "url": "heyoung://"
+    "school": "감리교신학대(전자출결)",
+    "url": "xidmcheck://",
+    "bundle_id": "com.xidsys.mcheck",
+    "url_scheme": "xidmcheck"
   },
   {
-    "school": "강남대학교",
-    "bundle_id": "",
-    "url_scheme": "knusmart",
-    "url": "knusmart://"
+    "school": "강남대학교(전자출결)",
+    "url": "sitinattendance://",
+    "bundle_id": "com.sitin.attendance",
+    "url_scheme": "sitinattendance"
   },
   {
-    "school": "강동대학교",
+    "school": "강동대학교(헤이영)",
+    "url": "heyoungcampus://",
     "bundle_id": "com.shinhan.heyoungcampus",
-    "url_scheme": "heyoung",
-    "url": "heyoung://"
+    "url_scheme": "heyoungcampus"
   },
   {
     "school": "강릉영동대학교",
@@ -66,10 +66,10 @@
     "url": "heyoung://"
   },
   {
-    "school": "강서대학교",
+    "school": "강서대학교(헤이영)",
+    "url": "heyoungcampus://",
     "bundle_id": "com.shinhan.heyoungcampus",
-    "url_scheme": "heyoung",
-    "url": "heyoung://"
+    "url_scheme": "heyoungcampus"
   },
   {
     "school": "강원대학교",
@@ -78,16 +78,16 @@
     "url": "kcloud://"
   },
   {
-    "school": "강원도립대학교",
-    "bundle_id": "",
-    "url_scheme": "coursemos",
-    "url": "coursemos://"
+    "school": "강원도립대(전자출결)",
+    "url": "xidmcheck://",
+    "bundle_id": "com.xidsys.mcheck",
+    "url_scheme": "xidmcheck"
   },
   {
-    "school": "거제대학교",
-    "bundle_id": "com.shinhan.heyoungcampus",
-    "url_scheme": "heyoung",
-    "url": "heyoung://"
+    "school": "거제대학교(HelloLMS)",
+    "url": "hellolms://",
+    "bundle_id": "com.xinics.hellolms",
+    "url_scheme": "hellolms"
   },
   {
     "school": "건국대학교",
@@ -102,10 +102,10 @@
     "url": "heyoung://"
   },
   {
-    "school": "건양대학교",
-    "bundle_id": "com.shinhan.heyoungcampus",
-    "url_scheme": "heyoung",
-    "url": "heyoung://"
+    "school": "건양대학교(공식)",
+    "url": "konyangapp://",
+    "bundle_id": "kr.ac.konyang.app",
+    "url_scheme": "konyangapp"
   },
   {
     "school": "경기과학기술대학교",
@@ -144,22 +144,22 @@
     "url": "heyoung://"
   },
   {
-    "school": "경동대학교",
-    "bundle_id": "com.shinhan.heyoungcampus",
-    "url_scheme": "heyoung",
-    "url": "heyoung://"
+    "school": "경동대학교(스마트출결)",
+    "url": "sitinattendance://",
+    "bundle_id": "com.sitin.attendance",
+    "url_scheme": "sitinattendance"
   },
   {
-    "school": "경민대학교",
-    "bundle_id": "com.shinhan.heyoungcampus",
-    "url_scheme": "heyoung",
-    "url": "heyoung://"
+    "school": "경민대학교(코스모스)",
+    "url": "cosmos://",
+    "bundle_id": "com.ubion.cosmos",
+    "url_scheme": "cosmos"
   },
   {
-    "school": "경복대학교",
-    "bundle_id": "com.shinhan.heyoungcampus",
-    "url_scheme": "heyoung",
-    "url": "heyoung://"
+    "school": "경복대학교(코스모스)",
+    "url": "cosmos://",
+    "bundle_id": "com.ubion.cosmos",
+    "url_scheme": "cosmos"
   },
   {
     "school": "경북과학대학교",
@@ -180,10 +180,10 @@
     "url": "ucheckplusstud://"
   },
   {
-    "school": "경북전문대학교",
-    "bundle_id": "",
-    "url_scheme": "coursemos",
-    "url": "coursemos://"
+    "school": "경북전문대(전자출결)",
+    "url": "xidmcheck://",
+    "bundle_id": "com.xidsys.mcheck",
+    "url_scheme": "xidmcheck"
   },
   {
     "school": "경상국립대학교",
@@ -198,16 +198,16 @@
     "url": "heyoung://"
   },
   {
-    "school": "경운대학교",
-    "bundle_id": "com.shinhan.heyoungcampus",
-    "url_scheme": "heyoung",
-    "url": "heyoung://"
+    "school": "경운대학교(LMS)",
+    "url": "hellolms://",
+    "bundle_id": "com.xinics.hellolms",
+    "url_scheme": "hellolms"
   },
   {
-    "school": "경인교육대학교",
-    "bundle_id": "com.shinhan.heyoungcampus",
-    "url_scheme": "heyoung",
-    "url": "heyoung://"
+    "school": "경인교대(전자출결)",
+    "url": "xidmcheck://",
+    "bundle_id": "com.xidsys.mcheck",
+    "url_scheme": "xidmcheck"
   },
   {
     "school": "경인여자대학교",
