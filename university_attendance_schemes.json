@@ -1,5 +1,11 @@
 [
   {
+    "school": "가야대학교(전자출결)",
+    "bundle_id": "com.xidsys.kayaabookstore",
+    "url_scheme": "kayaabookstore",
+    "url": "kayaabookstore://"
+  },
+  {
     "school": "가야대학교(LMS)",
     "bundle_id": "",
     "url_scheme": "",
