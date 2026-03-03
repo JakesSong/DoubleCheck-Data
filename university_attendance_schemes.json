@@ -2,1721 +2,2065 @@
   {
     "school": "가야대학교(LMS)",
     "bundle_id": "",
+    "url_scheme": "",
     "url": "https://lms.gaya.ac.kr"
   },
   {
     "school": "가천대학교",
     "bundle_id": "",
+    "url_scheme": "gachonapp",
     "url": "gachonapp://"
   },
   {
     "school": "가톨릭관동대학교",
     "bundle_id": "",
+    "url_scheme": "coursemosKwandong",
     "url": "coursemosKwandong://"
   },
   {
     "school": "가톨릭꽃동네대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "가톨릭대학교",
     "bundle_id": "",
+    "url_scheme": "cuksmart",
     "url": "cuksmart://"
   },
   {
     "school": "가톨릭상지대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "감리교신학대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "강남대학교",
     "bundle_id": "",
+    "url_scheme": "knusmart",
     "url": "knusmart://"
   },
   {
     "school": "강동대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "강릉영동대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "강서대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "강원대학교",
     "bundle_id": "",
+    "url_scheme": "kcloud",
     "url": "kcloud://"
   },
   {
     "school": "강원도립대학교",
     "bundle_id": "",
+    "url_scheme": "coursemos",
     "url": "coursemos://"
   },
   {
     "school": "거제대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "건국대학교",
     "bundle_id": "",
+    "url_scheme": "khub",
     "url": "khub://"
   },
   {
     "school": "건국대학교 GLOCAL캠퍼스",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "건양대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "경기과학기술대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "경기대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "경남대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "경남도립거창대학",
     "bundle_id": "",
+    "url_scheme": "coursemos",
     "url": "coursemos://"
   },
   {
     "school": "경남도립남해대학",
     "bundle_id": "",
+    "url_scheme": "coursemos",
     "url": "coursemos://"
   },
   {
     "school": "경남정보대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "경동대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "경민대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "경복대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "경북과학대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "경북대학교(LearningX)",
     "bundle_id": "com.instructure.learningx",
+    "url_scheme": "learningx",
     "url": "learningx://"
   },
   {
     "school": "경북보건대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "경북전문대학교",
     "bundle_id": "",
+    "url_scheme": "coursemos",
     "url": "coursemos://"
   },
   {
     "school": "경상국립대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "경성대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "경운대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "경인교육대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "경인여자대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "경일대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "경찰대학",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "경희대학교(통합)",
     "bundle_id": "kr.ac.khu.mobile",
+    "url_scheme": "khumobile",
     "url": "khumobile://"
   },
   {
     "school": "계명대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "계명문화대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "계원예술대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "고구려대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "고려대학교(InClass)",
     "bundle_id": "kr.ac.korea.inclass",
+    "url_scheme": "koreainclass",
     "url": "koreainclass://"
   },
   {
     "school": "고려대학교(호잇)",
     "bundle_id": "kr.ac.korea.hoit",
+    "url_scheme": "koreainclass",
     "url": "koreainclass://"
   },
   {
     "school": "고려대학교 세종캠퍼스",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "고신대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "공군사관학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "공주교육대학교",
     "bundle_id": "",
+    "url_scheme": "AppXidabook",
     "url": "AppXidabook://"
   },
   {
     "school": "광신대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "광양보건대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "광운대학교(KLAS)",
     "bundle_id": "kr.ac.kw.klas",
+    "url_scheme": "klas",
     "url": "klas://"
   },
   {
     "school": "광운대학교(포털)",
     "bundle_id": "kr.ac.kw.kwkok",
+    "url_scheme": "kwkok",
     "url": "kwkok://"
   },
   {
     "school": "광주가톨릭대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "광주과학기술원",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "광주교육대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "광주대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "광주보건대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "광주여자대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "구미대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "국군간호사관학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "국립강릉원주대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "국립경국대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "국립공주대학교",
     "bundle_id": "",
+    "url_scheme": "AppXidabook",
     "url": "AppXidabook://"
   },
   {
     "school": "국립군산대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "국립금오공과대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "국립목포대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "국립목포해양대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "국립부경대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "국립순천대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "국립창원대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "국립한국교통대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "국립한국해양대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "국립한밭대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "국민대학교(ON국민)",
     "bundle_id": "kr.ac.kookmin.on",
+    "url_scheme": "kookminon",
     "url": "kookminon://"
   },
   {
     "school": "국민대학교(전자출결)",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "국제대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "군산간호대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "군장대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "극동대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "금강대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "기독간호대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "김천대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "김포대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "김해대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "나사렛대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "나주대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "남부대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "남서울대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "농협대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "단국대학교",
     "bundle_id": "",
+    "url_scheme": "DKUMobileApp",
     "url": "DKUMobileApp://"
   },
   {
     "school": "대경대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "대구가톨릭대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "대구경북과학기술원",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "대구공업대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "대구과학대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "대구교육대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "대구대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "대구보건대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "대구예술대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "대구한의대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "대덕대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "대동대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "대림대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "대신대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "대원대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "대전가톨릭대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "대전과학기술대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "대전대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "대전보건대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "대전신학대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "대진대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "덕성여자대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "동강대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "동국대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "동국대학교 WISE캠퍼스",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "동남보건대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "동덕여자대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "동명대학교",
     "bundle_id": "",
+    "url_scheme": "AppXidabook",
     "url": "AppXidabook://"
   },
   {
     "school": "동서대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "동서울대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "동신대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "동아대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "동아방송예술대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "동아보건대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "동양대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "동양미래대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "동원과학기술대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "동원대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "동의과학대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "동의대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "두원공과대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "루터대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "마산대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "명지대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "명지전문대학",
     "bundle_id": "",
+    "url_scheme": "coursemos",
     "url": "coursemos://"
   },
   {
     "school": "목원대학교",
     "bundle_id": "",
+    "url_scheme": "AppXidabook",
     "url": "AppXidabook://"
   },
   {
     "school": "목포가톨릭대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "목포과학대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "문경대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "배재대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "배화여자대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "백석대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "백석문화대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "백제예술대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "부산가톨릭대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "부산경상대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "부산과학기술대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "부산교육대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "부산대학교",
     "bundle_id": "",
+    "url_scheme": "pusanuniv",
     "url": "pusanuniv://"
   },
   {
     "school": "부산보건대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "부산여자대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "부산예술대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "부산외국어대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "부산장신대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "부천대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "삼육대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "삼육보건대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "상명대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "상지대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "서강대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "서경대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "서영대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "서울과학기술대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "서울교육대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "서울기독대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "서울대학교(스마트캠퍼스)",
     "bundle_id": "kr.ac.snu.smartcampus",
+    "url_scheme": "snusmartcampus",
     "url": "snusmartcampus://"
   },
   {
     "school": "서울시립대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "서울신학대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "서울여자간호대학",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "서울여자대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "서울예술대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "서울장신대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "서울한영대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "서원대학교",
     "bundle_id": "",
+    "url_scheme": "AppXidabook",
     "url": "AppXidabook://"
   },
   {
     "school": "서일대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "서정대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "선린대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "선문대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "성결대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "성공회대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "성균관대학교(전자출결)",
     "bundle_id": "kr.ac.skku.attendance",
+    "url_scheme": "skkuAttend",
     "url": "skkuAttend://"
   },
   {
     "school": "성균관대학교(Kingo-M)",
     "bundle_id": "kr.ac.skku.kingom",
+    "url_scheme": "skkuapp",
     "url": "skkuapp://"
   },
   {
     "school": "성덕대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "성신여자대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "세경대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "세명대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "세종대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "세한대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "송곡대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "송원대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "송호대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "수성대학교",
     "bundle_id": "",
+    "url_scheme": "AppXidabook",
     "url": "AppXidabook://"
   },
   {
     "school": "수원가톨릭대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "수원과학대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "수원대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "수원여자대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "숙명여자대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "순천제일대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "순천향대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "숭실대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "숭의여자대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "신경주대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "신구대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "신라대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "신성대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "신안산대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "신한대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "아신대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "아주대학교(통합)",
     "bundle_id": "kr.ac.ajou.mobile",
+    "url_scheme": "ajoumobile",
     "url": "ajoumobile://"
   },
   {
     "school": "아주자동차대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "안동과학대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "안산대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "안양대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "여주대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "연성대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "연세대학교(Y-Attend)",
     "bundle_id": "kr.ac.yonsei.yattend",
+    "url_scheme": "ysrollbooklink",
     "url": "ysrollbooklink://"
   },
   {
     "school": "연세대학교(포털)",
     "bundle_id": "kr.ac.yonsei.mobile",
+    "url_scheme": "yonseimobile",
     "url": "yonseimobile://"
   },
   {
     "school": "연세대학교 미래캠퍼스",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "연암공과대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "연암대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "영남대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "영남신학대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "영남외국어대학",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "영남이공대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "영산대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "영산선학대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "영진전문대학교",
     "bundle_id": "",
+    "url_scheme": "coursemos",
     "url": "coursemos://"
   },
   {
     "school": "예수대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "예원예술대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "오산대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "용인대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "용인예술과학대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "우석대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "우송대학교",
     "bundle_id": "",
+    "url_scheme": "AppXidabook",
     "url": "AppXidabook://"
   },
   {
     "school": "우송정보대학",
     "bundle_id": "",
+    "url_scheme": "AppXidabook",
     "url": "AppXidabook://"
   },
   {
     "school": "울산과학기술원",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "울산과학대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "울산대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "웅지세무대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "원광대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "원광보건대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "위덕대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "유원대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "유한대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "육군사관학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "을지대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "이화여자대학교",
     "bundle_id": "",
+    "url_scheme": "coursemosEhwa",
     "url": "coursemosEhwa://"
   },
   {
     "school": "인덕대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "인제대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "인천가톨릭대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "인천대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "인하공업전문대학",
     "bundle_id": "",
+    "url_scheme": "coursemos",
     "url": "coursemos://"
   },
   {
     "school": "인하대학교",
     "bundle_id": "",
+    "url_scheme": "inhauniv",
     "url": "inhauniv://"
   },
   {
     "school": "장로회신학대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "장안대학교",
     "bundle_id": "",
+    "url_scheme": "AppXidabook",
     "url": "AppXidabook://"
   },
   {
     "school": "재능대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "전남과학대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "전남대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "전남도립대학교",
     "bundle_id": "",
+    "url_scheme": "coursemos",
     "url": "coursemos://"
   },
   {
     "school": "전북과학대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "전북대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "전주교육대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "전주기전대학",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "전주대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "전주비전대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "제주고관광대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "제주국제대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "제주대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "제주한라대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "조선간호대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "조선대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "조선이공대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "중부대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "중앙대학교(중앙더하기)",
     "bundle_id": "kr.ac.cau.add",
+    "url_scheme": "cauadd",
     "url": "cauadd://"
   },
   {
     "school": "중앙대학교(헤이영)",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "중앙승가대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "중원대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "진주교육대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "진주보건대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "차의과학대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "창신대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "창원문성대학",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "청강문화산업대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "청암대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "청운대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "청주교육대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "청주대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "초당대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "총신대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "추계예술대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "춘천교육대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "춘해보건대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "충남대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "충남도립대학교",
     "bundle_id": "",
+    "url_scheme": "coursemos",
     "url": "coursemos://"
   },
   {
     "school": "충북대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "충북도립대학",
     "bundle_id": "",
+    "url_scheme": "coursemos",
     "url": "coursemos://"
   },
   {
     "school": "충북보건과학대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "충청대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "칼빈대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "평택대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "포항공과대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "포항대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한경국립대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한국골프과학기술대학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "한국공학대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한국과학기술원",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "한국관광대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한국교원대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한국기술교육대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한국농수산대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한국방송통신대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한국성서대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한국승강기대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한국영상대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한국예술종합학교",
     "bundle_id": "com.libeka.ucheckplus.stud",
+    "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
   },
   {
     "school": "한국외국어대학교",
     "bundle_id": "",
+    "url_scheme": "hufsmobile",
     "url": "hufsmobile://"
   },
   {
     "school": "한국전통문화대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한국체육대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한국침례신학대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한국항공대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한남대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한동대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한라대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한림대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한림성심대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한서대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한성대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한세대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한신대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한양대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한양대학교 ERICA캠퍼스",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한양여자대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한영대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "한일장신대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "해군사관학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "협성대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "혜전대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "호남대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "호남신학대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "호산대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "호서대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "호원대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "홍익대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   },
   {
     "school": "화성의과학대학교",
     "bundle_id": "com.shinhan.heyoungcampus",
+    "url_scheme": "heyoung",
     "url": "heyoung://"
   }
 ]
