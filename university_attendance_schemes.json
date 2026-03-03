@@ -318,7 +318,7 @@
     "url": "heyoung://"
   },
   {
-    "school": "광주과학기술원",
+    "school": "광주과학기술원 (GIST)",
     "bundle_id": "com.libeka.ucheckplus.stud",
     "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
@@ -552,7 +552,7 @@
     "url": "heyoung://"
   },
   {
-    "school": "대구경북과학기술원",
+    "school": "대구경북과학기술원 (DGIST)",
     "bundle_id": "com.libeka.ucheckplus.stud",
     "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
@@ -1410,7 +1410,7 @@
     "url": "AppXidabook://"
   },
   {
-    "school": "울산과학기술원",
+    "school": "울산과학기술원 (UNIST)",
     "bundle_id": "com.libeka.ucheckplus.stud",
     "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
@@ -1800,7 +1800,7 @@
     "url": "heyoung://"
   },
   {
-    "school": "포항공과대학교",
+    "school": "포항공과대학교 (POSTECH)",
     "bundle_id": "com.shinhan.heyoungcampus",
     "url_scheme": "heyoung",
     "url": "heyoung://"
@@ -1830,7 +1830,7 @@
     "url": "heyoung://"
   },
   {
-    "school": "한국과학기술원",
+    "school": "한국과학기술원 (KAIST)",
     "bundle_id": "com.libeka.ucheckplus.stud",
     "url_scheme": "ucheckplusstud",
     "url": "ucheckplusstud://"
