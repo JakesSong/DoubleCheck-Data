@@ -6,12 +6,6 @@
     "url": "kayaabookstore://"
   },
   {
-    "school": "가야대학교(LMS)",
-    "bundle_id": "",
-    "url_scheme": "",
-    "url": "https://lms.gaya.ac.kr"
-  },
-  {
     "school": "가천대학교",
     "bundle_id": "",
     "url_scheme": "gachonapp",
