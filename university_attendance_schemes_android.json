@@ -1,1 +1,13 @@
-
+{
+  "version": 1,
+  "updatedAt": "2026-06-17",
+  "schemes": [
+    {
+      "id": "skku",
+      "name": "성균관대학교",
+      "shortName": "성균관대",
+      "packageName": "edu.skku.attend",
+      "fallbackPlayStoreUrl": "https://play.google.com/store/apps/details?id=edu.skku.attend"
+    }
+  ]
+}
